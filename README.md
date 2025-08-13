@@ -33,21 +33,22 @@ Soy desarrollador junior con titulo en <u>tecnologo en analisis y desarollo de s
 </div>
 
 ---
-- **Softwares and Tools**:
+- **Softwares and Tools**: <br>
+<div>
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+</div>
 
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de Ángel](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Estadísticas de Ángel](https://github-readme-stats.vercel.app/api?username=ANGELDAVIDRAMIREZ&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ANGELDAVIDRAMIREZ&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Conecta conmigo
-- **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+- **Email:** [angelramirez10402@gmail.com](mailto:angelramirez10402@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ---
