@@ -8,12 +8,18 @@
 
 ## 🛠 Tecnologías y herramientas
 - **Lenguajes:** Python, C#
+<div>
+<img src="python.svg" width="40" height="40" />
+</div>
+
 - **Frameworks:** ASP.NET Core, .NET, Bootstrap
 - **Bases de datos:** SQL Server, MySQL
 <div>
 <img src="mysql.svg" width="40" height="40" />
 </div>
+
 - **Otros:** Git, HTML, CSS, JavaScript
+
 <div>
 <img src="html5.svg" width="40" height="40" />
 <img src="css.svg" width="40" height="40" />
