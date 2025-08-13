@@ -11,9 +11,11 @@
 - **Frameworks:** ASP.NET Core, .NET, Bootstrap
 - **Bases de datos:** SQL Server, MySQL
 - **Otros:** Git, HTML, CSS, JavaScript
+<div>
 <img src="html5.svg" width="40" height="40" />
 <img src="css.svg" width="40" height="40" />
-
+<img src="django.svg" width="40" height="40" />
+</div>
 
 ---
 
