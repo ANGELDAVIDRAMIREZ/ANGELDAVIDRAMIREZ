@@ -60,7 +60,7 @@ Soy desarrollador junior con titulo en <i>tecnologo en analisis y desarollo de s
 
 ## 📫 Conecta conmigo
 - **Email:** [angelramirez10402@gmail.com](mailto:angelramirez10402@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/angel-ramirez-a5b7352a6/)
 
 ---
 
