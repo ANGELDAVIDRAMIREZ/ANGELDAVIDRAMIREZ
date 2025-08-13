@@ -1,11 +1,11 @@
-# ¡Hola!  Soy Ángel David Ramírez Muñoz
+<h1 align="center"><b>Hola, Bienvenido Soy Angel Ramirez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 💻 **Desarrollador de software jr** especializado en **Python** y **C#**  
  Apasionado por el desarrollo backend con **ASP.NET Core** y **SQL Server**  
  Interesado en **microservicios** y soluciones escalables
 
 ---
-**sobre mi :smiley:**
+**Sobre Mi :smiley:** <br>
 Soy desarrollador junior con titulo en **tecnologo en analisis y desarollo de software** me gusta aprender tecnologias nuevas aprender mucho por mi parte me gusta ser autodidacta en mis tiempos libres me dedico a jugar videojuegos como tambien a aprender a programar.
 
 ## 🛠 Tecnologías y herramientas
@@ -27,7 +27,7 @@ Soy desarrollador junior con titulo en **tecnologo en analisis y desarollo de so
 <img src="html5.svg" width="40" height="40" />
 <img src="css.svg" width="40" height="40" />
 <img src="django.svg" width="40" height="40" />
-<img src="js.svg" width="40" height="40" />
+<img src="js.svg" width="50" height="50" />
 </div>
 
 ---
