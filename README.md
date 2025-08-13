@@ -1,11 +1,8 @@
 <h1 align="center"><b>Hola, Bienvenido Soy Angel Ramirez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-💻 **Desarrollador de software jr** especializado en **Python** y **C#**  
- Apasionado por el desarrollo backend con **ASP.NET Core** y **SQL Server**  
- Interesado en **microservicios** y soluciones escalables
 
 ---
-**Sobre Mi :smiley:** <br>
+<h1>*Sobre Mi :smiley:**</h1> <br>
 Soy desarrollador junior con titulo en **tecnologo en analisis y desarollo de software** me gusta aprender tecnologias nuevas aprender mucho por mi parte me gusta ser autodidacta en mis tiempos libres me dedico a jugar videojuegos como tambien a aprender a programar.
 
 ## 🛠 Tecnologías y herramientas
