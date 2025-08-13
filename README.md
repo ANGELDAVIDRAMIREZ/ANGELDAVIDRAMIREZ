@@ -21,8 +21,12 @@ Soy desarrollador junior con titulo en <i>tecnologo en analisis y desarollo de s
 </div>
 
 - **Frameworks:** ASP.NET Core, .NET
+<div>
 <img src=".NET.png" width="40" height="40" />
 <img src=".net.svg" width="40" height="40" />
+</div>
+
+
 - **Bases de datos:** SQL Server, MySQL
 <div>
 <img src="mysql.svg" width="40" height="40" />
