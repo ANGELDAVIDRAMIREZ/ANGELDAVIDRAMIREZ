@@ -10,6 +10,9 @@
 - **Lenguajes:** Python, C#
 - **Frameworks:** ASP.NET Core, .NET, Bootstrap
 - **Bases de datos:** SQL Server, MySQL
+<div>
+<img src="mysql.svg" width="40" height="40" />
+</div>
 - **Otros:** Git, HTML, CSS, JavaScript
 <div>
 <img src="html5.svg" width="40" height="40" />
