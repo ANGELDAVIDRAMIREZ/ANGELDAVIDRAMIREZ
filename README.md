@@ -1,15 +1,18 @@
-# ¡Hola! 👋 Soy Ángel David Ramírez Muñoz
+# ¡Hola!  Soy Ángel David Ramírez Muñoz
 
-💻 **Desarrollador de software** especializado en **Python** y **C#**  
-🚀 Apasionado por el desarrollo backend con **ASP.NET Core** y **SQL Server**  
-🎯 Interesado en **microservicios** y soluciones escalables
+💻 **Desarrollador de software jr** especializado en **Python** y **C#**  
+ Apasionado por el desarrollo backend con **ASP.NET Core** y **SQL Server**  
+ Interesado en **microservicios** y soluciones escalables
 
 ---
+**sobre mi :smiley:**
+Soy desarrollador junior con titulo en **tecnologo en analisis y desarollo de software** me gusta aprender tecnologias nuevas aprender mucho por mi parte me gusta ser autodidacta en mis tiempos libres me dedico a jugar videojuegos como tambien a aprender a programar.
 
 ## 🛠 Tecnologías y herramientas
 - **Lenguajes:** Python, C#
 <div>
 <img src="python.svg" width="40" height="40" />
+<img src="c--4.svg" width="40" height="40" />
 </div>
 
 - **Frameworks:** ASP.NET Core, .NET, Bootstrap
@@ -24,6 +27,7 @@
 <img src="html5.svg" width="40" height="40" />
 <img src="css.svg" width="40" height="40" />
 <img src="django.svg" width="40" height="40" />
+<img src="js.svg" width="40" height="40" />
 </div>
 
 ---
