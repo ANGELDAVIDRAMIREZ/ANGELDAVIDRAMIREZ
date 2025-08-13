@@ -1,11 +1,16 @@
 <h1 align="center"><b>Hola, Bienvenido Soy Angel Ramirez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
----
-<h1>*Sobre Mi :smiley:**</h1> <br>
-Soy desarrollador junior con titulo en **tecnologo en analisis y desarollo de software** me gusta aprender tecnologias nuevas aprender mucho por mi parte me gusta ser autodidacta en mis tiempos libres me dedico a jugar videojuegos como tambien a aprender a programar.
+--- 
 
-## 🛠 Tecnologías y herramientas
+<h1>Sobre Mi :smiley:</h1> <br>
+Soy desarrollador junior con titulo en <u>tecnologo en analisis y desarollo de software</u> me gusta aprender tecnologias nuevas aprender mucho por mi parte me gusta ser autodidacta en mis tiempos libres me dedico a jugar videojuegos como tambien a aprender a programar.
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 - **Lenguajes:** Python, C#
 <div>
 <img src="python.svg" width="40" height="40" />
@@ -28,6 +33,12 @@ Soy desarrollador junior con titulo en **tecnologo en analisis y desarollo de so
 </div>
 
 ---
+- **Softwares and Tools**:
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de Ángel](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
