@@ -12,6 +12,7 @@
 - **Bases de datos:** SQL Server, MySQL
 - **Otros:** Git, HTML, CSS, JavaScript
 <img src="html5.svg" width="40" height="40" />
+<img src="css.svg" width="40" height="40" />
 
 
 ---
