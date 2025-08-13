@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ángel David Ramírez Muñoz
 
-<!--
-**ANGELDAVIDRAMIREZ/ANGELDAVIDRAMIREZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de software** especializado en **Python** y **C#**  
+🚀 Apasionado por el desarrollo backend con **ASP.NET Core** y **SQL Server**  
+🎯 Interesado en **microservicios** y soluciones escalables
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y herramientas
+- **Lenguajes:** Python, C#
+- **Frameworks:** ASP.NET Core, .NET, Bootstrap
+- **Bases de datos:** SQL Server, MySQL
+- **Otros:** Git, HTML, CSS, JavaScript
+
+---
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de Ángel](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Conecta conmigo
+- **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+---
+
+> *"La tecnología es el arte de transformar ideas en soluciones."*
+
